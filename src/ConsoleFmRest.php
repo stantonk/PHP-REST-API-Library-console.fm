@@ -1,5 +1,6 @@
 <?php
 
+// put your $API_KEY in config.php
 require_once('./config.php');
 
 class ConsoleFmRest
